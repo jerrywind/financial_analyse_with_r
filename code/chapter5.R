@@ -218,6 +218,7 @@ sd(diffLogSlast)/diffLogS351dailyVol
 
 
 
+#### Figure 5.7
 b = 196
 for(path in b:205) {
   N=365;
