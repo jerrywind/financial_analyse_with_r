@@ -10,6 +10,6 @@
 
 - ```#># something #]#``` interactive code block with line outputs, start with  `>`,end with `]` 交互的代码块，包括输出行,从`>`开始,`]`结束   
 
-``#~``` output line with interactive code block，交互代码里的输出行显示 
+- ```#~``` output line with interactive code block，交互代码里的输出行显示 
 
 - the gap of two near code Blocks is 3 empty lines 两个代码块之间空3行  
